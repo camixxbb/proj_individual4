@@ -27,7 +27,7 @@ Objetivo: Montar um banco de dados com as seguintes identidades iniciais: cursos
  ☆*:.｡.o(≧▽≦)o.｡.:*☆  
  <br>
  <br>
- Como essas entidades estão relacionadas? A entidade CURSOS está relacionada à entidade PROFESSORES; a entidade TURMAS está relacionada à CURSOS e PROFESSORES; a entidade ALUNOS está relacionada à TURMAS; a entidade SALAS esrá relacionada à TURMA.
+ Como essas entidades estão relacionadas? A entidade CURSOS está relacionada à entidade PROFESSORES; a entidade TURMAS está relacionada à CURSOS e PROFESSORES; a entidade ALUNOS está relacionada à TURMAS; a entidade SALAS esrá relacionada à TURMA. Usando as cardinalidades 1:1, 1:N, N:1, N:N.
   <br>
    <br>
  ☆*:.｡.o(≧▽≦)o.｡.:*☆  
