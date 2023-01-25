@@ -31,3 +31,11 @@ Objetivo: Montar um banco de dados com as seguintes identidades iniciais: cursos
   <br>
    <br>
  ☆*:.｡.o(≧▽≦)o.｡.:*☆  
+  <br>
+   <br>
+    (つ✧ω✧)つ Screenshots
+    <br>
+(„• ᴗ •„)Modelo Conceitual
+![Modelo Conceitual](https://user-images.githubusercontent.com/89521799/214576241-f41be43a-cbda-4794-a7cb-9222c33890a9.png)
+(„• ᴗ •„)Modelo Lógico
+![Modelo Lógico](https://user-images.githubusercontent.com/89521799/214576689-a77a5371-8aa3-45f7-90d3-36e95fc6ceca.png)
